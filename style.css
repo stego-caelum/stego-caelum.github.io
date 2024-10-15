@@ -5,20 +5,19 @@ h2 {
   color: aqua;
 }
 /*  table  layout  template  */
-table {
-  .c-table {
-    border-collapse: collapse;
-    border: solid 3px #1b757c;
-  }
-  .c-table th,
-  .c-table td {
-    padding: 8px 10px;
-  }
-  .c-table th {
-    border: solid 1px #1b757c;
-    background-color: #90d0e0;
-  }
-  .c-table td {
-    border: dashed 1px #1b757c;
-  }
+
+.c-table {
+  border-collapse: collapse;
+  border: solid 3px #1b757c;
+}
+.c-table th,
+.c-table td {
+  padding: 8px 10px;
+}
+.c-table th {
+  border: solid 1px #1b757c;
+  background-color: #90d0e0;
+}
+.c-table td {
+  border: dashed 1px #1b757c;
 }
