@@ -1,6 +1,22 @@
 h1 {
-    color:firebrick;
+  color: firebrick;
 }
 h2 {
-    color:aqua;
+  color: aqua;
+}
+/*  table  layout  template  */
+.c-table {
+  border-collapse: collapse;
+  border: solid 3px #1b7c26;
+}
+.c-table th,
+.c-table td {
+  padding: 8px 10px;
+}
+.c-table th {
+  border: solid 1px #1b7c26;
+  background-color: #90e099;
+}
+.c-table td {
+  border: dashed 1px #1b7c26;
 }
