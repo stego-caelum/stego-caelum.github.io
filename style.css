@@ -7,16 +7,16 @@ h2 {
 /*  table  layout  template  */
 .c-table {
   border-collapse: collapse;
-  border: solid 3px #1b7c26;
+  border: solid 3px #1b757c;
 }
 .c-table th,
 .c-table td {
   padding: 8px 10px;
 }
 .c-table th {
-  border: solid 1px #1b7c26;
-  background-color: #90e099;
+  border: solid 1px #1b757c;
+  background-color: #90d0e0;
 }
 .c-table td {
-  border: dashed 1px #1b7c26;
+  border: dashed 1px #1b757c;
 }
