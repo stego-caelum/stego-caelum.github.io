@@ -14,5 +14,7 @@
 }
 .c-table td {
   border: dashed 1px #1b757c;
+}
+.c-table td {
   text-align: center;
 }
