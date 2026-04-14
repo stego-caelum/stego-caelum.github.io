@@ -6,8 +6,6 @@
 .c-table {
   border-collapse: collapse;
   border: solid 3px #1b757c;
-  overflow-x: auto;
-  display: block;
 }
 .c-table th,
 .c-table td {
