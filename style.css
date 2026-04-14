@@ -1,7 +1,6 @@
 /*  table  layout  template  */
 
-.table-wrap{
-  width: 100%;
+.table-wrap {
   overflow-x: auto;
 }
 .c-table {
