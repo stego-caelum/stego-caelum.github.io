@@ -1,5 +1,9 @@
 /*  table  layout  template  */
 
+.table-wrap{
+  width: 100%;
+  overflow-x: auto;
+}
 .c-table {
   border-collapse: collapse;
   border: solid 3px #1b757c;
@@ -9,6 +13,7 @@
 .c-table th,
 .c-table td {
   padding: 8px 10px;
+  white-space: nowrap;
 }
 .c-table th {
   border: solid 1px #1b757c;
