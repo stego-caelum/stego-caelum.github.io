@@ -5,6 +5,7 @@ body {
 }
 
 header {
+  margin-top: 0;
   position: sticky;
   top: 0;
   text-align: center;
