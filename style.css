@@ -5,6 +5,7 @@ body {
 
 header {
   position: sticky;
+  top: 0;
   background-color: #1b757c;
   color: white;
 }
