@@ -1,11 +1,13 @@
 /*  table  layout  template  */
 body {
   margin: 0;
+  padding: 0;
 }
 
 header {
   position: sticky;
   top: 0;
+  text-align: center;
   background-color: #1b757c;
   color: white;
 }
